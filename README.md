@@ -1,9 +1,10 @@
 # Chatbot de Asistencia: Sistemas Digitales - Universidad Compensar
 Estudiante: Nicolle Quintero
+
 Materia: Sistemas Digitales
 
 ## Contenido: 
 Chatbot desarrollado en Python con ChatterBot para asistir a estudiantes en conceptos de lógica digital, circuitos y sistemas de numeración.
 
-<img width="1674" height="1009" alt="image" src="https://github.com/user-attachments/assets/1275f918-6df8-47e9-8857-2872a831218f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1275f918-6df8-47e9-8857-2872a831218f" />
 
